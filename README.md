@@ -9,8 +9,6 @@ inevitable for multiple reasons; to list a few, **cost & time efficiency**, **id
 **specializations enablement**, and **network effect**. These reasons will be further elaborated
 as the scope of the project grows. 
 
-[Reasons Why Online Collaboration For Digital Arts Is the Future](https://www.notion.so/Reasons-Why-Online-Collaboration-For-Digital-Arts-Is-the-Future-fa8a253cd9dc48039d6b8f3fa05d7950)
-
 For the sake of hypothesis, let's assume such reasons
 hold, then let's consider the potential difficulties for online collaboration of digital arts.
 
@@ -39,11 +37,10 @@ listening to changes; hence, comprehending changes in a meaningful way. (2) Time
     
     **Problem to tackle:** build out a merge visualization engine for midi files 
     
-    **Tech Stack:** Python, Modi, Pandas, HTML, React, JS
+    **Tech Stack:** JavaScript, TypScript, React.js, Visx.js, D3.js, 
+
     
     **Timeline:** done by 15th of Nov
-    
-    [Details for Step 1 ](https://www.notion.so/Details-for-Step-1-3e242bae6e19428dbf34b511eaf724ab)
     
 
 **Summary:** 
