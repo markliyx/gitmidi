@@ -41,7 +41,7 @@ listening to changes; hence, comprehending changes in a meaningful way. (2) Time
     
     **Tech Stack:** Python, Modi, Pandas, HTML, React, JS
     
-    **Timeline:** done by 16 of Oct
+    **Timeline:** done by 15th of Nov
     
     [Details for Step 1 ](https://www.notion.so/Details-for-Step-1-3e242bae6e19428dbf34b511eaf724ab)
     
