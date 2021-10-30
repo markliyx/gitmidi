@@ -28,27 +28,6 @@ merging(notesMap1, notesMap2);
 console.log(JSON.stringify(Object.fromEntries(notesMap1)));
 console.log(JSON.stringify(Object.fromEntries(notesMap2)));
 
-/* log out first map 
-var count = 0;
-notesMap1.forEach((value, key) => {
-    value.forEach(note => {
-        console.log(note);
-        count++;
-    })
-});
-console.log("map 1 count is " + count);
-
-// log out second map 
-var count = 0;
-notesMap2.forEach((value, key) => {
-    value.forEach(note => {
-        console.log(note);
-        count++;
-    })
-});
-console.log("map 2 count is " + count);
-*/ 
-
 
 /*--------------------------           Functions           ----------------------------*/ 
 /* this function stores the note events in a map with the following attributes:
