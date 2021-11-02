@@ -1,6 +1,8 @@
 **Project Outline**
 
-**Motivation:** any sort of complex digital collaboration projects involve careful tracking of
+## Motivation:
+
+any sort of complex digital collaboration projects involve careful tracking of
 changes (versioning), branching, merge conflict resolution, and storage. For software
 development, there exists tool such as git; now, another emerging form of online collaboration
 lies in the arts. Whether it is digital music (electronic music), digital visual arts
@@ -12,7 +14,9 @@ as the scope of the project grows.
 For the sake of hypothesis, let's assume such reasons
 hold, then let's consider the potential difficulties for online collaboration of digital arts.
 
-**Problems:** Let's define the problems as follow  -
+## Problems:
+
+** Let's define the problems as follow  -
 
 1. **Version Control Vulnerability** - the risk of information being lost at any instant of
 the project when an artist tries to restore a previous draft. Such information can be a
@@ -31,7 +35,7 @@ listening to changes; hence, comprehending changes in a meaningful way. (2) Time
 
 **Advanced** -  Intermediate + a massive cloud online community, where ownership is not defined individually; instead, whoever makes contribution to an artwork gains tokens/ shares representing distribution of such ownership. (Challenge note: to have a meaningful definition of ownership is essential in this framework). 
 
-**Project Steps (updates in realtime project progression):** 
+## Project Steps (updates in realtime project progression):
 
 1. **Fix types of art form:** electronic music expressed as midi files
     
@@ -43,6 +47,6 @@ listening to changes; hence, comprehending changes in a meaningful way. (2) Time
     **Timeline:** done by 15th of Nov
     
 
-**Summary:** 
+## Summary:
 
 Exploring solutions to enable better online collaboration for digital artists
