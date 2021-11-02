@@ -27,7 +27,9 @@ listening to changes; hence, comprehending changes in a meaningful way. (2) Time
 3. **Economic Cloud-based Host** - To incentivize online collaboration, tools built around it should be economical (let's, for now, define baseline of being "economical" as freemium). 
 4. **Ownership logging** - The ambiguity of ownership for a mass collaborated (let's, for now, define mass as # collaborators > 10) project can emerge conflicts. How do we define and divide ownership in a meaningful should be considered carefully. 
 
-**Solution:** Let's jog down some rough ideas. 
+## Solution:
+
+Let's jog down some rough ideas. 
 
 **Basic** -  A git like tool for branching out an artwork, and supports meaningful merging operations. 
 
