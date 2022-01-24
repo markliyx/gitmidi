@@ -45,8 +45,7 @@ Let's jog down some rough ideas.
     
     **Tech Stack:** JavaScript, TypScript, React.js, Visx.js, D3.js, 
 
-    
-    **Timeline:** done by 15th of Nov
+   
     
 
 ## Summary:
